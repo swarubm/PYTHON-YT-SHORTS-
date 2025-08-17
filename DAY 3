@@ -1,0 +1,4 @@
+#reversing of a string using extended slicing method
+
+string = 'python programming'
+print(string[::-1])
