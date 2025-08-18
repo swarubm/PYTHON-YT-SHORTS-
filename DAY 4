@@ -1,0 +1,9 @@
+counting vowel in word or sentence 
+
+vowel = ['a','e','i','o','u'] 
+word = 'programming'
+count = 0 
+for charecter in word:
+   if charecter in vowel :
+      count = count+1 
+  print(count)
