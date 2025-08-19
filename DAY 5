@@ -1,0 +1,7 @@
+vowel = ['a','e','i','o','u']
+word = 'progamming aikfi'
+count = 0
+for charecter in word:
+    if charecter not in vowel:
+        count=count+1
+print(count)   
