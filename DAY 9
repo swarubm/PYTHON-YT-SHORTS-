@@ -1,0 +1,6 @@
+numberlist = [23,45,67,12,23,34,7,25,74,468,5,32,1,67]
+min = numberlist[0]
+for num in numberlist:
+  if min>num:
+    min=num
+print(min)
