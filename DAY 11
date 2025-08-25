@@ -1,0 +1,5 @@
+# 11. CONVERTING LIST INTO STRING 
+
+LIST = ["P","Y","T","H", "O","N"]
+string = "".join(LIST)
+print(string)
